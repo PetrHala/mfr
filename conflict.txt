@@ -1,1 +1,1 @@
-Zde je nekonfliktni text.
+Zde je konfliktni text.
