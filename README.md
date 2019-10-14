@@ -1,4 +1,4 @@
-# Petr Hála
+# Petr Hala
 
 ### sifrovacihra.cz
 
